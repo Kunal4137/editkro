@@ -6,7 +6,7 @@ A dark cinematic portfolio webpage built for **Editkaro.in**, a social media mar
 
 ## 🔗 Live Demo
 
-> Deploy to [Netlify Drop](https://6a3cbfe3b1e6044dd133e778--editkroportfolio876.netlify.app/) 
+> (https://6a3cbfe3b1e6044dd133e778--editkroportfolio876.netlify.app/) 
 
 ---
 
