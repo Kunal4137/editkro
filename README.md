@@ -6,15 +6,11 @@ A dark cinematic portfolio webpage built for **Editkaro.in**, a social media mar
 
 ## 🔗 Live Demo
 
-> Deploy to [Netlify Drop](https://app.netlify.com/drop) by dragging the `index.html` file — you'll get a live URL instantly.
+> Deploy to [Netlify Drop](https://6a3cbfe3b1e6044dd133e778--editkroportfolio876.netlify.app/) 
 
 ---
 
-## 📸 Preview
 
-![Hero Section](https://images.unsplash.com/photo-1536240478700-b869ad10e128?w=900&q=80&auto=format&fit=crop)
-
----
 
 ## ✨ Features
 
@@ -138,19 +134,6 @@ Copy any existing `.video-card` block inside `#videoGrid` and update the `data-c
 
 ---
 
-## 🌐 Deployment
-
-**Netlify (recommended):**
-1. Go to [app.netlify.com/drop](https://app.netlify.com/drop)
-2. Drag and drop `index.html`
-3. Your site is live in seconds
-
-**GitHub Pages:**
-1. Push `index.html` to a GitHub repo
-2. Go to Settings → Pages → Deploy from branch
-3. Select `main` branch and `/ (root)`
-
----
 
 ## 👤 Author
 
